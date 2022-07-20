@@ -1,5 +1,7 @@
 # KMeans-Retail-RFM
 
+A project to practice using common Python libraries for data analysis, as well as SQL.
+
 Applied k-means algorithm to cluster the customers of an online retailer based on their recency, frequency, and monetary value (rfm). The dataset used for this project was stored on a local mysql database and contains purchases made for an online retail company during an eight month period.
 
 For this project we define a customer's recency as the number of days between the date of their most recent purchase and the date of the most recent purchase of any customer in the dataset plus one day, a customer's frequency as the total number of purchases made by that customer in the eight month period, and a customer's monetary value as the total amount they spent on purchases over the eight month period.<br />
